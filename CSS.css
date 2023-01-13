@@ -1,0 +1,17 @@
+    button {background-color: crimson;border-color: black;color: white;Margin: auto;padding: 15px 32px;text-align: center;display: inline-block;font-size: 16px}
+    button.link {background-color: green;border-color: black;color: blue;font-size: 20px;padding: 1px 2px;}
+    p {font-size: 20px;}
+    pre {font-size: 20px;}
+    h1 {font-size: 60px;text-align: center;}
+    img.small {height: 150;width: 108;}
+    img.mediana {height: 240;width: 420;}
+    img.portada {height: 322px;width: 976px;margin: auto;margin-bottom: 10px;display: block;}
+    img.logo {height: 200; width: 600px;}
+    img.PJ {height: 420;width: 210;}
+    img.S {height: 100px;width: 100px;}
+    div.F {border: double rgba(255, 255, 255, 0.5) 8px;margin: auto;width: 75%;
+        border-radius: 30px;background-color: rgba(255, 255, 255, 0.4);padding: 20px;}
+    div.V {text-align: center;}
+    span {margin: auto;}
+    body {background-image: url(Recursos/Varios/Axel.jpg);}
+    
